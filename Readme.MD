@@ -1,12 +1,13 @@
 # Description
-This is my website, built with HTML and CSS. It is a simple that shows Arsha which is a tech company services.
+This is a simple website that shows Arsha which is a tech company.It shows the different services they offer and a contact form on how to reach them.
 
 # Features
-The website is responsive, meaning it will look good on all devices, including phones, tablets, and computers.
+The website is responsive meaning it will look good on all devices, including phones, tablets, and computers.
+
 The website is easy to navigate.
+
 The website is visually appealing.
-Getting Started
-To view the website, simply open the index.html file in a web browser.
+
 
 # Resources
 The website was built using the following resources:
